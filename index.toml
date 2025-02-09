@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/BuildRelease.ps1"
-hash = "8035f8eea9ba640224ae97450bda556eef98c9c37789ef171e7e885ccbaeef5a"
-
-[[files]]
-file = ".vscode/BuildRelease.sh"
-hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
-
-[[files]]
 file = "BeyondModAdditions.md"
 hash = "a53ee67aab4eda4abbcb23fe22a38049b4d075226bdbb11ed1e416251d4ecc28"
 
@@ -576,10 +568,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "79643230c997a50c619c844c24aa931d0f2c08b26a953b5c9364d224240dd94b"
 metafile = true
-
-[[files]]
-file = "package.json"
-hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
 
 [[files]]
 file = "shaderpacks/June's Complementary Unbound Setting Preferences.txt"
