@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/BuildRelease.ps1"
+hash = "8035f8eea9ba640224ae97450bda556eef98c9c37789ef171e7e885ccbaeef5a"
+
+[[files]]
+file = ".vscode/BuildRelease.sh"
+hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 hash = "4301fdf3d7b178dea9dde4b67f60ea4bafb10f76b94fd5b9e52df2763cd680b2"
 metafile = true
@@ -296,6 +304,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "4c27dc908eb38003e88973b16b37dd7b34d7aff5d6ad9844f3a017e7ca977158"
 metafile = true
+
+[[files]]
+file = "package.json"
+hash = "df98815c736322b5548726efba6a92fd26b650d6862561188073064d51ca511b"
 
 [[files]]
 file = "shaderpacks/June's Complementary Unbound Setting Preferences.txt"
