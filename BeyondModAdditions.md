@@ -52,7 +52,7 @@
 - https://modrinth.com/datapack/structory
 - https://modrinth.com/mod/jade
 - https://modrinth.com/mod/default-options
-
+- https://modrinth.com/mod/polymorph
 
 ### Resource Packs
 - https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons

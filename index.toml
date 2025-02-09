@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "BeyondModAdditions.md"
-hash = "a53ee67aab4eda4abbcb23fe22a38049b4d075226bdbb11ed1e416251d4ecc28"
+hash = "4dff58a7dbc1424f613df5f8281af2200a40c455c1a1d97309a0e222e6b54e5f"
 
 [[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
@@ -28,15 +28,15 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/defaultoptions/extra/config/xaerominimap.txt"
-hash = "1c8febcdb0cfaf5e005b9a7ba30d09dffe130480c2b9677bbd5dc19c1e2ef9d1"
+hash = "eb18cbf903208a38ba3f5da6101dc8767121c4834a44c598092508b06c44ff2f"
 
 [[files]]
 file = "config/defaultoptions/extra/config/xaerominimap_entities.json"
-hash = "cc168db76be4309315a459831acf352912329bebc724eb6a03ac9dc41240bb42"
+hash = "4eb15f9d9bcf9c71265c471f682b6ea0c6d6f89a79009b57164f3be955b62439"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "4e32f1b193aca6e7f8ff4d5aaf56d3b4d420ebb93bc5f5494ed9bb0276a60dee"
+hash = "ab6d577bdf84ded550ea8fd304c02fd13032bb4e68ccee4b2f281b9161fedb59"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -472,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/plushables.pw.toml"
 hash = "a1d1c052ab65d246c387416cc9b678d264dec8e53741e7de9417de12e066091c"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "3ce9b33815abf47ab1a834c480b5a443233106abcd3efc0bcca3fabd71cf3a30"
 metafile = true
 
 [[files]]
