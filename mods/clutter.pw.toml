@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.21.1-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/JPYjtlxG/clutter-1.21.1-0.6.4.jar"
+hash-format = "sha1"
+hash = "b9b14322659dcd5ee84cd4602239bd0162704703"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "JPYjtlxG"

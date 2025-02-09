@@ -1,0 +1,13 @@
+name = "Deeper and Darker Material Pack for Basic Weapons"
+filename = "bwmp_warden_deeper-and-darker.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gnzh1en0/versions/kjBaZaQN/bwmp_warden_deeper-and-darker.zip"
+hash-format = "sha1"
+hash = "d5d35d381b9caf67ef8bac52c723dd841c385180"
+
+[update]
+[update.modrinth]
+mod-id = "gnzh1en0"
+version = "kjBaZaQN"

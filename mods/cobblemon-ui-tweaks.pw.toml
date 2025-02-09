@@ -1,0 +1,13 @@
+name = "Cobblemon UI Tweaks"
+filename = "cobblemon-ui-tweaks-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5WwmqQHF/versions/wgLbAKJk/cobblemon-ui-tweaks-1.0.7.jar"
+hash-format = "sha1"
+hash = "2e3a4b211b03dde7b6329bbbea693f362839f6de"
+
+[update]
+[update.modrinth]
+mod-id = "5WwmqQHF"
+version = "wgLbAKJk"
