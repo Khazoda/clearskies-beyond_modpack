@@ -1,0 +1,13 @@
+name = "Copper Material Pack for Basic Weapons"
+filename = "bwmp_copper_minecraft.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNaA3w4z/versions/cUAWkxpw/bwmp_copper_minecraft.zip"
+hash-format = "sha1"
+hash = "077e3543616b1f00aa889f18b366412f20d7f954"
+
+[update]
+[update.modrinth]
+mod-id = "GNaA3w4z"
+version = "cUAWkxpw"

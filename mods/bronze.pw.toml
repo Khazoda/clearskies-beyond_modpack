@@ -1,0 +1,13 @@
+name = "Bronze"
+filename = "bronze-1.0.12+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pVlXMty/versions/qQxA6O27/bronze-1.0.12%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "e71f2a654decf9fa817704f8094bfdf4c113f164"
+
+[update]
+[update.modrinth]
+mod-id = "6pVlXMty"
+version = "qQxA6O27"
