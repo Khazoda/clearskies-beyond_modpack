@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "BeyondModAdditions.md"
-hash = "4dff58a7dbc1424f613df5f8281af2200a40c455c1a1d97309a0e222e6b54e5f"
+hash = "1f15fb2634fe5f2ff21b8ac3161bec370ef583c28f6a5fa3ede958eebec709d3"
 
 [[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
