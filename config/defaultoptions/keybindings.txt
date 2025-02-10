@@ -86,7 +86,7 @@ key_key.ok_zoomer.reset_zoom:key.keyboard.unknown:
 key_key.presencefootsteps.settings:key.keyboard.f10:
 key_key.presencefootsteps.toggle:key.keyboard.unknown:
 key_key.smallships.ship_sail:key.keyboard.comma:
-key_key.smallships.cannon_barrel_enter:key.keyboard.f:
+key_key.smallships.cannon_barrel_enter:key.keyboard.period:
 key_key.toms_storage.open_terminal:key.keyboard.y:
 key_key.travelersbackpack.inventory:key.keyboard.b:
 key_key.travelersbackpack.sort:key.keyboard.unknown:

@@ -36,7 +36,7 @@ hash = "4eb15f9d9bcf9c71265c471f682b6ea0c6d6f89a79009b57164f3be955b62439"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "ab6d577bdf84ded550ea8fd304c02fd13032bb4e68ccee4b2f281b9161fedb59"
+hash = "74eddd9a615c74a20b9b0b8009c04743865d58d7164e92c23848046c26123d2b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6860b84fef904b2f024d4490f085889e4b53d21bfee8d8500c14dc8d79ed18f7"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "63469ee87e647ec742879087818457630148413d183dca21876fb2ac1e0bf104"
 metafile = true
 
 [[files]]
@@ -247,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "119115626bcb7fb05a8378f078f0bef6a20bf2b1bc5c1c54ce45e9839386f74c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "deef012e3cde458fc2556b5d2b3e7b23619e5404cc8a68a1948d40e8215e5de7"
 metafile = true
 
 [[files]]

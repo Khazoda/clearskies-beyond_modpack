@@ -7,7 +7,6 @@
 - https://modrinth.com/mod/cobblemon-spawn-notification
 - https://modrinth.com/mod/cobblemon-ui-tweaks
 - https://modrinth.com/mod/cobblemon-pokenav
-- https://modrinth.com/mod/cobblemon-move-inspector
 - https://modrinth.com/mod/show-held-items
 - https://modrinth.com/mod/cobblemon-ride-on!
 
@@ -53,6 +52,7 @@
 - https://modrinth.com/mod/jade
 - https://modrinth.com/mod/default-options
 - https://modrinth.com/mod/polymorph
+- https://modrinth.com/mod/almost-unified
 
 ### Resource Packs
 - https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons

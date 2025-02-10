@@ -1,12 +1,12 @@
 name = "Clear Skies Beyond"
 author = "Khazoda"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "85e069c262b6d10abb4cb17750248c63bf5d67a4808ab279f1850681a35a1828"
+hash = "9bdd70ff21953a8e0c7b6288aa475f3eb3ffffe4fbb96b5c972a35607ad8609e"
 
 [versions]
 fabric = "0.16.10"
